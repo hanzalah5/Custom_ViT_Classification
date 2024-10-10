@@ -2,6 +2,14 @@
 
 This project demonstrates how to build an image classifier using a Vision Transformer (ViT) from scratch. The notebook takes the reader through the steps of creating a custom dataset, implementing key components of a Vision Transformer, training the model, and visualizing the results.
 
+## Dataset Used:
+- LINK : https://www.kaggle.com/datasets/imsparsh/flowers-dataset
+This dataset belongs to DPhi Data Sprint #25: Flower Recognition. The dataset contains raw jpeg images customized to three types of flowers.
+
+## Results
+<img width="923" alt="Screenshot 2024-10-10 at 9 13 34 PM" src="https://github.com/user-attachments/assets/a1e8b962-e46b-4554-98e8-7ac75d241bcb">
+
+
 ## Steps Followed:
 
 ### 1. Dataset Preparation
@@ -27,6 +35,7 @@ This project demonstrates how to build an image classifier using a Vision Transf
 
 ### 7. Pretrained Model
 - A pretrained model is loaded, and predictions are made for further comparison.
+  
 
 ## Libraries Used:
 
