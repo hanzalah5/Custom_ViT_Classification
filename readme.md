@@ -1,4 +1,4 @@
-# Image Classifier from Scratch
+# Vision Transformer Image Classifier from Scratch in Pytroch
 
 This project demonstrates how to build an image classifier using a Vision Transformer (ViT) from scratch. The notebook takes the reader through the steps of creating a custom dataset, implementing key components of a Vision Transformer, training the model, and visualizing the results.
 
